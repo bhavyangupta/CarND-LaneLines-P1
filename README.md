@@ -29,7 +29,7 @@ Red color: Raw lane detection output
 ```
 
 ![alt text](test_images/solidWhiteRight.jpg)
-![alt text](test_images/solidWhiteRightOutput.jpg)
+![alt text](test_images/solidWhiteRightOutput.png)
 
 
 ### Shortcomings with current pipeline
